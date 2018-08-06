@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/inspectionProfiles/
+.idea/workspace.xml
+ajax/__pycache__/
+ajax/migrations/__pycache__/
+cookies/__pycache__/
+cookies/migrations/__pycache__/
+login/__pycache__/
+login/migrations/__pycache__/
+new_projects/__pycache__/
+templates/
+user/__pycache__/
+user/migrations/__pycache__/
