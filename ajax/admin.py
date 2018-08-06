@@ -4,4 +4,4 @@ from django.contrib import admin
 
 
 def index():
-    return ('hello world')
+    return ('hello python')
